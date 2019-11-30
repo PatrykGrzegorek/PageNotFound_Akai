@@ -22,13 +22,6 @@ body{
     animation-delay: 1s;
 }
 
-a{
-    align-items:center;
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-}
-
 #main{
     color: rgb(0, 25, 54);
     text-align: center;

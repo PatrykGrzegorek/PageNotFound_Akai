@@ -20,13 +20,7 @@ body{
     animation-name: hinge;
     animation-duration: 6.6s;
     animation-delay: 1s;
-}
-
-a{
-    align-items:center;
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
+    animation-iteration-count: 1;
 }
 
 #main{
