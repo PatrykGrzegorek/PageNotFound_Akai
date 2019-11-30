@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+
+#container{
+    width: 100vw;
+    height: 100vh;
+    display:table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#mid{
+    text-align: center;
+}
+#onmid
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-image: url(logo-akai.png);
+    background-size: cover;
+}
+
+#main{
+    color: rgb(0, 25, 54);
+    text-align: center;
+    float: left;
+    font-size: 40px;
+    display:table-cell;
+    vertical-align: middle;
+}
