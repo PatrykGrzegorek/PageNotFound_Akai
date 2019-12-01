@@ -18,8 +18,8 @@ body{
     background-size: cover;
 
     animation-name: hinge;
-    animation-duration: 6.6s;
-    animation-delay: 1s;
+    animation-duration: 6.4s;
+    animation-delay: 0.7s;
 }
 
 a{
@@ -72,7 +72,7 @@ a{
     }
 
     50% {
-        transform: translate3d(0, 200px, 0);
+        transform: translate3d(0, 25vh, 0);
         opacity: 0;
     }
     60% {
