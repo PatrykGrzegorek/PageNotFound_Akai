@@ -1,5 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700&display=swap');
 body{
     margin:0;
+    font-family: 'Quicksand',Sans-Serif;
+    font-weight: 700;
+    font-display: swap;
 }
 
 #container{
@@ -34,10 +39,15 @@ a{
     text-align: center;
     float: left;
     font-size: 50px;
+    margin-left: 20px;
 }
 
-#orange{
+.orange{
     color: rgb(250, 162, 27);
+}
+
+#back{
+    font-size: 20px;
 }
 
 @media (max-width: 629px) {
@@ -47,6 +57,9 @@ a{
 
     #main{
         font-size: 30px;
+    }
+    #back{
+        font-size: 15px;
     }
 }
 
